@@ -1,9 +1,4 @@
-first_app
-=========
-
-rails 4.0.0
-
-# Ruby on Rails Tutorial: first application
+# Ruby on Rails Tutorial: first application  rails 4.0.0
 
 This is the first application for the
 [*Ruby on Rails Tutorial*](http://railstutorial.org/)
